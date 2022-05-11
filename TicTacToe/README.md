@@ -104,15 +104,13 @@ while True:
 
 ### Notas Adicionais
 * Atendendo aos objetivos e público alvo desde projeto, o mesmo está desenvolvido em **programação procedural/ procedimental**.
-<br>
-<br>
-* Existe um **desafio adicional**:<br>
+* Existe um **desafio adicional**: <br>
 Se a máquina jogar corretamente nunca perde, ou seja, ganha ou empata sempre. Os programadores são desafiados a melhorar o
 modelo proposto.
 <br>
 <br>
 Sugestão: Antes da máquina colocar no centro `pos = 4` existe o conceito de <i>fork</i> e <i>block_fork</i>. O mesmo encontra-se
- descrito em [Crowle & Siegle, (1993)](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1704_3).
+ descrito em Crowle & Siegle, (1993).
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
